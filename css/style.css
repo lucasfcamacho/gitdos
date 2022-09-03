@@ -1,4 +1,11 @@
 
 body{
-    background: #fafafa;
+    background: #343434;
+    color: rgb(255, 236, 67);
+}
+
+img {
+    width: 150px;
+    height: 200px;
+    border-radius: 5px;
 }
